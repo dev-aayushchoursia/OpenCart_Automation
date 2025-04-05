@@ -1,0 +1,37 @@
+2025-04-05 14:49:31 INFO  TC_001_AccountRegistrationTest:50 - Execution Mode: remote
+2025-04-05 14:50:22 INFO  TC_001_AccountRegistrationTest:50 - Execution Mode: local
+2025-04-05 14:50:31 INFO  TC_001_AccountRegistrationTest:101 - Tests executing on Local Machine.
+2025-04-05 14:50:32 INFO  TC_001_AccountRegistrationTest:13 - ***** Starting TC_001_AccountRegistrationTest *****
+2025-04-05 14:50:33 INFO  TC_001_AccountRegistrationTest:18 - Clicked on My Account link.
+2025-04-05 14:50:33 INFO  TC_001_AccountRegistrationTest:21 - Clicked on Register link.
+2025-04-05 14:50:33 INFO  TC_001_AccountRegistrationTest:24 - Filling in customer details...
+2025-04-05 14:50:35 INFO  TC_001_AccountRegistrationTest:41 - Validating the confirmation message...
+2025-04-05 14:50:35 INFO  TC_001_AccountRegistrationTest:48 - Test passed: Account successfully registered.
+2025-04-05 14:50:35 INFO  TC_001_AccountRegistrationTest:55 - ***** Finished TC_001_AccountRegistrationTest *****
+2025-04-05 14:51:48 INFO  TC_001_AccountRegistrationTest:50 - Execution Mode: local
+2025-04-05 14:51:50 INFO  TC_001_AccountRegistrationTest:101 - Tests executing on Local Machine.
+2025-04-05 14:51:51 INFO  TC_001_AccountRegistrationTest:13 - ***** Starting TC_001_AccountRegistrationTest *****
+2025-04-05 14:51:51 INFO  TC_001_AccountRegistrationTest:18 - Clicked on My Account link.
+2025-04-05 14:51:52 INFO  TC_001_AccountRegistrationTest:21 - Clicked on Register link.
+2025-04-05 14:51:52 INFO  TC_001_AccountRegistrationTest:24 - Filling in customer details...
+2025-04-05 14:51:52 INFO  TC_001_AccountRegistrationTest:41 - Validating the confirmation message...
+2025-04-05 14:51:53 INFO  TC_001_AccountRegistrationTest:48 - Test passed: Account successfully registered.
+2025-04-05 14:51:53 INFO  TC_001_AccountRegistrationTest:55 - ***** Finished TC_001_AccountRegistrationTest *****
+2025-04-05 14:57:29 INFO  TC_001_AccountRegistrationTest:50 - Execution Mode: local
+2025-04-05 14:57:31 INFO  TC_001_AccountRegistrationTest:101 - Tests executing on Local Machine.
+2025-04-05 14:57:32 INFO  TC_001_AccountRegistrationTest:13 - ***** Starting TC_001_AccountRegistrationTest *****
+2025-04-05 14:57:33 INFO  TC_001_AccountRegistrationTest:18 - Clicked on My Account link.
+2025-04-05 14:57:33 INFO  TC_001_AccountRegistrationTest:21 - Clicked on Register link.
+2025-04-05 14:57:33 INFO  TC_001_AccountRegistrationTest:24 - Filling in customer details...
+2025-04-05 14:57:34 INFO  TC_001_AccountRegistrationTest:41 - Validating the confirmation message...
+2025-04-05 14:57:35 INFO  TC_001_AccountRegistrationTest:48 - Test passed: Account successfully registered.
+2025-04-05 14:57:35 INFO  TC_001_AccountRegistrationTest:55 - ***** Finished TC_001_AccountRegistrationTest *****
+2025-04-05 15:05:41 INFO  TC_001_AccountRegistrationTest:50 - Execution Mode: local
+2025-04-05 15:05:43 INFO  TC_001_AccountRegistrationTest:101 - Tests executing on Local Machine.
+2025-04-05 15:05:45 INFO  TC_001_AccountRegistrationTest:13 - ***** Starting TC_001_AccountRegistrationTest *****
+2025-04-05 15:05:45 INFO  TC_001_AccountRegistrationTest:18 - Clicked on My Account link.
+2025-04-05 15:05:45 INFO  TC_001_AccountRegistrationTest:21 - Clicked on Register link.
+2025-04-05 15:05:45 INFO  TC_001_AccountRegistrationTest:24 - Filling in customer details...
+2025-04-05 15:05:46 INFO  TC_001_AccountRegistrationTest:41 - Validating the confirmation message...
+2025-04-05 15:05:47 INFO  TC_001_AccountRegistrationTest:48 - Test passed: Account successfully registered.
+2025-04-05 15:05:47 INFO  TC_001_AccountRegistrationTest:55 - ***** Finished TC_001_AccountRegistrationTest *****

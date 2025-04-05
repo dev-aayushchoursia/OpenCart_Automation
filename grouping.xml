@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Grouping tests Suite">
+    <groups>
+        <run>
+            <include name="Master"/>
+            <include name="Sanity"/>
+            <include name="Regression"/>
+            <!--exclude name="Regression"></exclude-->
+        </run>
+    </groups>
+    <listeners>
+        <listener class-name="utilities.ExtentReportManager"></listener>
+    </listeners>
+    <test thread-count="5" name="GroupingTest1">
+        <parameter name="browser" value="chrome"/>
+        <classes>
+            <class name="testCases.TC_001_AccountRegistrationTest"></class>
+            <class name="testCases.TC_002_LoginTest"></class>
+            <class name="testCases.TC_003_LoginDDT"></class>
+        </classes>
+    </test>
+</suite>
